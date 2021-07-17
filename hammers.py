@@ -78,9 +78,9 @@ def dos2():
 
 
 def usage():
-	print (''' _____________________________________________________ \n
+	print (''' _____________________________________________________________ \n
 	           Author : Kang Profesor Acc
-	           Ingaf Hanya untuk edukasi! \n
+	           Ingat Hanya untuk edukasi! \n
 	usage : python/python3 hammers.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
